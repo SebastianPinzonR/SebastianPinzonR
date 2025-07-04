@@ -1,5 +1,3 @@
-## Hola 👋
-
 <h1 align="center">Hola 👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Sebastian Pinzon</a></h1>
 <h3 align="center">Un apasionado desarrollador de aplicaciones móviles de Bogota Colombia &#127470;&#127475</h3>
