@@ -29,7 +29,7 @@ Sebastian Pinzon</a></h1>
 		</a>
 	   
        
-      </div>
+   
 
 </p>
 
