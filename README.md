@@ -9,7 +9,7 @@ Sebastian </a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
+<br/>
 - 🌱 Actualmente estoy trabajando por mi cuenta en una App Cross-platform.
 
 - 🤝 Estoy disponible para trabajar.
