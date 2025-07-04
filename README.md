@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy <a href="https://github.com/SebastianPinzonR" target="blank">
-Sebastian Pinzon</a></h1>
+Sebastian </a></h1>
 <h3 align="center">Un apasionado desarrollador de aplicaciones móviles de Bogotá, Colombia. </h3>
 
 <br/>
