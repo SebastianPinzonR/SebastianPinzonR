@@ -10,7 +10,7 @@ Sebastian Pinzon</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 Actualmente estoy trabajando en una App Cross-platform.
+- 🌱 Actualmente estoy trabajando por mi cuenta en una App Cross-platform.
 
 - 🤝 Estoy disponible para trabajar.
 
